@@ -30,3 +30,13 @@ Google Cloud Platform (GCP) is the strongest in AI and Kubernetes. As the origin
 Which cloud platform would you personally choose and why?
 
 I would personally choose AWS due to its extensive global adoption, massive community support, and mature service catalog. Its wide popularity makes finding documentation, troubleshooting solutions, and third-party integrations considerably easier.  
+___________________________________________________________________________________________________________________________________________________________________
+## Cloud Services Comparison Reference Table
+
+| Service Category | AWS | Azure | GCP |
+| :--- | :--- | :--- | :--- |
+| **Virtual Machine** | Amazon EC2 | Azure Virtual Machines | Compute Engine |
+| **Object Storage** | Amazon S3 | Azure Blob Storage | Cloud Storage |
+| **Identity Management** | AWS IAM | Microsoft Entra ID | Cloud IAM |
+| **SQL Database** | Amazon RDS | Azure SQL Database | Cloud SQL |
+| **Kubernetes** | Amazon EKS | Azure Kubernetes Service (AKS) | Google Kubernetes Engine (GKE) |
