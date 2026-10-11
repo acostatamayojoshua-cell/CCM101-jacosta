@@ -1,8 +1,8 @@
-**Mission Overview:**
+# Mission Overview:
 
 This lab simulates a real-world scenario at CloudNova Technologies where we acted as Cloud Operations Engineers (SREs). Our task was to establish a host server health baseline, deploy a client's Nginx web server container, generate test traffic, and capture logs and real-time metrics to prove the infrastructure's reliability before a major user surge
 
-**Objectives:**
+# Objectives:
 
  Utilize native Linux command-line tools to monitor host CPU, Memory, and Disk capacity.  
  
@@ -14,7 +14,7 @@ This lab simulates a real-world scenario at CloudNova Technologies where we acte
 
  Continue expanding our professional GitHub Cloud Computing Portfolio.
 
-**Monitoring Commands Executed:**
+# Monitoring Commands Executed:
 
 free -h: Checked the available physical memory (RAM) on the host server.
 
@@ -30,7 +30,7 @@ docker logs client-website: Extracted application access logs to inspect HTTP st
 
 docker stats: Opened a live, real-time dashboard tracking the container's CPU and memory usage.   
 
-**Skills Learned:**
+# Skills Learned:
 
 Establishing accurate hardware performance baselines using native Linux system tools.
 
