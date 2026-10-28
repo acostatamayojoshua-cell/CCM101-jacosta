@@ -1,4 +1,4 @@
-README
+
 
 # CCM101 — Laboratory 10: The Enterprise Cloud Architect
 
